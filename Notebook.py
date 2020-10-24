@@ -5,12 +5,12 @@ from Beautiful_Font import *
 All_Notes = []
 
 clue_book = {
-    "friend"    : "My loyal friend who has helped me a lot." * 10,
-    "boss"      : "My boss Mariano Giovanni." * 10,
-    "suspect_1" : "Suspect 1: Manuele Mariano." * 10,
-    "suspect_2" : "Suspect 2: Roberto Orazio." * 10,
-    "suspect_3" : "Suspect 3: Figlio Incompetente." * 10,
-    "suspect_4" : "Suspect 4: Angelo Rosolino." * 10
+    "friend"    : "My loyal friend who has helped me a lot. " * 10,
+    "boss"      : "My boss Mariano Giovanni. " * 10,
+    "suspect_1" : "Suspect 1: Manuele Mariano. " * 10,
+    "suspect_2" : "Suspect 2: Roberto Orazio. " * 10,
+    "suspect_3" : "Suspect 3: Figlio Incompetente. " * 10,
+    "suspect_4" : "Suspect 4: Angelo Rosolino. " * 10
 }
 
 def limit_line_length(list_or_words: list, max_line_length: int=60) -> int:

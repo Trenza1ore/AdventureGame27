@@ -19,3 +19,8 @@ Warehouse = {
 }
 
 #More locations to be added
+
+All_Locations = {
+    "mafia" : Mafia_Bosses_Office,
+    "warehouse" : Warehouse
+}
