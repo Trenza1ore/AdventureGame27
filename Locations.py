@@ -1,19 +1,19 @@
 Mafia_Bosses_Office = {
     "name": "Mariano Giovanni's Office",
 
-    "description": "n/a"
+    "description": "n/a",
 
-    "exits": "n/a"
+    "exits": "n/a",
 
     "items": "n/a"
 }
 
 Warehouse = {
-    "name": "Warehouse"
+    "name": "Warehouse",
 
-    "description": "n/a"
+    "description": "n/a",
 
-    "exits": "n/a"
+    "exits": "n/a",
 
     "items": "n/a"
 }

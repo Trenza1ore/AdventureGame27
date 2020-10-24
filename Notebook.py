@@ -15,24 +15,24 @@ clue_book = {
 
 def limit_line_length(list_or_words: list, max_line_length: int=60) -> int:
         lines_length = []
-        current_line_num = 0
-        current_line_len = 0
         output = [[list_or_words.pop(0)]]
+        current_line_num = 0
+        current_line_len = len(output[0][0])
         for word in list_or_words:
             word_length = len(word) + 1
-            if (current_line_len + word_length) > max_line_length:
+            if (current_line_len + word_length) < max_line_length:
+                output[current_line_num].append(word)
+                current_line_len += word_length
+            else:
                 current_line_num += 1
                 current_line_len = word_length - 1
                 output.append([word])
-            else:
-                output[current_line_num].append(word)
-                current_line_len += word_length
         return [' '.join(line) for line in output]
 
 def print_notes() -> None:
     clear_screen()
     print_title("notebook", 0.1)
-    print('-' * 100)
+    print('-' * 105)
     for i in range(len(All_Notes)):
         sleep(0.3)
         words_to_print = limit_line_length(All_Notes[i].split(' '), 100)
