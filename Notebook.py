@@ -4,14 +4,18 @@ from Beautiful_Font import *
 
 All_Notes = []
 
-clue_book = {
-    "friend"    : "My loyal friend who has helped me a lot. " * 10,
-    "boss"      : "My boss Mariano Giovanni. " * 10,
-    "suspect_1" : "Suspect 1: Manuele Mariano. " * 10,
-    "suspect_2" : "Suspect 2: Roberto Orazio. " * 10,
-    "suspect_3" : "Suspect 3: Figlio Incompetente. " * 10,
-    "suspect_4" : "Suspect 4: Angelo Rosolino. " * 10
-}
+clue_book = [
+    "Found this note on the bathroom mirror: \n Banana WAR U 3:40 5/3",
+    "Figlio Inco's a short-tempered guy for sure. The questioning made him mad for some reason...",
+    "Just talked to the consigliere, he's drunk and going on and on about how feelings make his work hard. Understandable.",
+    "I was chased by a masked man through Manhattan. I believe he was hired by the traitor to stop my investigation.",
+    "Angelina Lombardo is the daughter of the Lombardo family's boss." + ' \n ' +\
+    "The Lombardo and Giovanni families are allied in their dispute against the Vittorio family." + ' \n ' +\
+    "Rosolino was responsible for the recent alliance of the Lombardo and Giovanni families." + ' \n ' +\
+    "Rosolino believes that the Lombardo family is the most beneficial to deal with."
+]
+
+clue_book.reverse()
 
 def limit_line_length(list_or_words: list, max_line_length: int=60) -> int:
         lines_length = []
@@ -20,7 +24,11 @@ def limit_line_length(list_or_words: list, max_line_length: int=60) -> int:
         current_line_len = len(output[0][0])
         for word in list_or_words:
             word_length = len(word) + 1
-            if (current_line_len + word_length) < max_line_length:
+            if '\n' in word:
+                current_line_num += 1
+                current_line_len = 0
+                output.append([])
+            elif (current_line_len + word_length) < max_line_length:
                 output[current_line_num].append(word)
                 current_line_len += word_length
             else:
@@ -40,8 +48,12 @@ def print_notes() -> None:
         for line in words_to_print:
             print("     " + line)
 
+def add_note() -> None:
+    All_Notes.append(clue_book.pop())
+
+# for testing only
 if __name__ == "__main__":
     input()
-    for i in clue_book:
-        All_Notes.append(clue_book[i])
+    for _ in range(len(clue_book)):
+        add_note()
     print_notes()
