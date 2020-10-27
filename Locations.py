@@ -37,7 +37,7 @@ Liberty_Island = {
 
     "description": "Cafe owned by a family that you have interest in working with.",
 
-    "exits": {Taxi}"
+    "exits": {Taxi}
 }
 
 Taxi = {
