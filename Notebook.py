@@ -5,14 +5,27 @@ from Beautiful_Font import *
 All_Notes = []
 
 clue_book = [
-    "Found this note on the bathroom mirror: \n Banana WAR U 3:40 5/3",
+    "Found this note on the bathroom mirror: \n -> Banana WAR U 3:40 5/3",
     "Figlio Inco's a short-tempered guy for sure. The questioning made him mad for some reason...",
     "Just talked to the consigliere, he's drunk and going on and on about how feelings make his work hard. Understandable.",
     "I was chased by a masked man through Manhattan. I believe he was the traitor who wanted to stop my investigation",
     "Angelina Lombardo is the daughter of the Lombardo family's boss." + ' \n ' +\
     "The Lombardo and Giovanni families are allied in their dispute against the Vittorio family." + ' \n ' +\
     "Rosolino was responsible for the recent alliance of the Lombardo and Giovanni families." + ' \n ' +\
-    "Rosolino believes that the Lombardo family is the most beneficial to deal with."
+    "Rosolino believes that the Lombardo family is the most beneficial to deal with." + ' \n ' +\
+    "Figlio Inco was hiding in the boot of the taxi we took to the casino. He turned out to be the attacker that attacked us earlier. He escaped after he was found out" + ' \n ' +\
+
+    "Rosolino the consigliere will not shut up about some Angie and how they are like Romeo and Juliet" + ' \n ' +\
+    "The note I found at the start of the investigation was deciphered as Bonanno, Warehouse, third of May, 03:40am" + ' \n ' +\
+    "Manuele Bonanno was meeting with one of the police officers" + ' \n ' +\
+    "Figlio Inco is the son of Mariano Giovanni" + ' \n ' +\
+    "Figlio Inco’s real name is Alberto Giovanni" + ' \n ' +\
+    "Figlio Inco is short for Figlio Incompetente – incompetent son" + ' \n ' +\
+    "Bonanno is the nephew of the boss" + ' \n ' +\
+    "Bonanno plans to change the family’s business when he becomes the boss" + ' \n ' +\
+    "Bonanno is suspicious about Orazio" + ' \n ' +\
+    "Bonanno thinks Figlio is not a threat" + ' \n ' +\
+
 ]
 
 clue_book.reverse()
