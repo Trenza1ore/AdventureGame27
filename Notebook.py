@@ -16,6 +16,7 @@ clue_book = [
     "Figlio Inco was hiding in the boot of the taxi we took to the casino. He turned out to be the attacker that attacked us earlier. He escaped after he was found out" + ' \n ' +\
 
     "Rosolino the consigliere will not shut up about some Angie and how they are like Romeo and Juliet" + ' \n ' +\
+    "I tried asking the drunks at the bar about Bonanno. From what I heard, he’s power hungry and is disliked here."+ ' \n ' +\
     "The note I found at the start of the investigation was deciphered as Bonanno, Warehouse, third of May, 03:40am" + ' \n ' +\
     "Manuele Bonanno was meeting with one of the police officers" + ' \n ' +\
     "Figlio Inco is the son of Mariano Giovanni" + ' \n ' +\
