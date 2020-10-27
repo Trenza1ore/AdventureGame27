@@ -8,7 +8,7 @@ clue_book = [
     "Found this note on the bathroom mirror: \n Banana WAR U 3:40 5/3",
     "Figlio Inco's a short-tempered guy for sure. The questioning made him mad for some reason...",
     "Just talked to the consigliere, he's drunk and going on and on about how feelings make his work hard. Understandable.",
-    "I was chased by a masked man through Manhattan. I believe he was hired by the traitor to stop my investigation.",
+    "I was chased by a masked man through Manhattan. I believe he was the traitor who wanted to stop my investigation",
     "Angelina Lombardo is the daughter of the Lombardo family's boss." + ' \n ' +\
     "The Lombardo and Giovanni families are allied in their dispute against the Vittorio family." + ' \n ' +\
     "Rosolino was responsible for the recent alliance of the Lombardo and Giovanni families." + ' \n ' +\
