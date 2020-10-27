@@ -3,9 +3,7 @@ Mafia_Bosses_Office = {
 
     "description": "n/a",
 
-    "exits": "n/a",
-
-    "items": "n/a"
+    "exits": {},
 }
 
 Warehouse = {
@@ -13,19 +11,15 @@ Warehouse = {
 
     "description": "n/a",
 
-    "exits": "n/a",
-
-    "items": "n/a"
+    "exits": {},
 }
 
 Starting_Street = {
     "name": "a street behind the Stanky Rat Pub",
-
+    #"name" can be changed if desired
     "description": "n/a",
 
-    "exits": "n/a",
-
-    "items": "n/a"
+    "exits": {},
 }
 
 
