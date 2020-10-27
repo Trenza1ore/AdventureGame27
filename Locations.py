@@ -61,6 +61,8 @@ Warehouse = {
 
     "description": "This is where the deal takes place.",
 
+
+    #technically no exit. this is last location.
     "exits": {},
 }
 
