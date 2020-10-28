@@ -21,7 +21,7 @@ Bar = {
 
     "description": "Empty bar, early to be drinking.",
 
-    "exits": {Outside_Bar_Attack}
+    "exits": {"outside bar"}
 }
 
 Outside_Bar = {
