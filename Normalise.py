@@ -1,19 +1,3 @@
-from Locations import *
-
-key_words = [
-    "note",
-    "south", "east", "west",
-    "left", "right", "forwards",
-    "investigate", "back",
-    "decline", "accept",
-    "leave"
-    "note"
-    "deal", "investigate", "else",
-    "a", "b", "c",
-    "note", "out",
-    ""
-]
-
 def Remove_Punc(user_input: str) -> str:
     output = ""
     for character in user_input:
@@ -24,22 +8,16 @@ def Remove_Punc(user_input: str) -> str:
     return output
 
 def Remove_Space(user_input: str) -> list:
-    return [i.lower() for i in user_input.split(' ') if len(i) > 0]
+    return [i.upper() for i in user_input.split(' ') if len(i) > 0]
 
-def Remove_Words(user_input: list) -> dict:
-    command = {
-    "operand": "",
-    "operator": ""
-    }
+def Remove_Words(user_input: list, key_words: list) -> int:
     for word in user_input:
         if word in key_words:
-            command["operator"] = word
-        elif word in All_Locations:
-            command["operand"] = word
-    return command
+            return key_words.index(word)
+    return -1
 
-def Parse_Input(user_input: str) -> dict:
-    return Remove_Words(Remove_Space(Remove_Punc(user_input)))
+def Parse_Input(user_input: str, key_words: list) -> int:
+    return Remove_Words(Remove_Space(Remove_Punc(user_input)), key_words)
 
 if __name__ == "__main__":
     while True:

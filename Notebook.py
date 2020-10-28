@@ -30,13 +30,15 @@ clue_book = [
 
 clue_book.reverse()
 
-def limit_line_length(list_or_words: list, max_line_length: int=100) -> list:
+def limit_line_length(list_of_words: list, max_line_length: int=100) -> list:
         lines_length = []
-        output = [[list_or_words.pop(0)]]
+        is_someone_speaking = True if '\"' in list_of_words[0] else False
+        output = [[list_of_words.pop(0)]]
         current_line_num = 0
         current_line_len = len(output[0][0])
-        for word in list_or_words:
+        for word in list_of_words:
             word_length = len(word) + 1
+            is_someone_speaking = True if '\"' in word else is_someone_speaking
             if '\n' in word:
                 current_line_num += 1
                 current_line_len = 0
@@ -48,7 +50,11 @@ def limit_line_length(list_or_words: list, max_line_length: int=100) -> list:
                 current_line_num += 1
                 current_line_len = word_length - 1
                 output.append([word])
-        return [' '.join(line) for line in output]
+        out = [' '.join(line) for line in output]
+        if is_someone_speaking:
+            for i in range(1, len(out)):
+                out[i] = ' ' + out[i]
+        return out
 
 def print_notes() -> None:
     clear_screen()

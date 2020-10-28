@@ -1,0 +1,1237 @@
+﻿
+<title>
+introduction
+</title>
+[02:37 o'clock]
+[a street behind a local pub: somewhere in Brooklyn]
+?
+*Stumbling and swaying from side to side and monologuing loudly*
+"Can't believe they'd just-- just fire me like that, those cold-heated rats!"
+*Hic*
+"They have no... no sympathy! --for a man whose wife just divorced him; I mean-- who in my shoes wouldn't have a drink, or two... to-- to get through the damn working day?! And only for a few days, not even an entire year!"
+<choice>
+SOUTH,EAST
+Go SOUTH towards the grocery store,Go EAST towards your apartment building
+
+You reach the end of the block. You can:
+</choice>
+<0>
+Drunk Divorcee: 
+"Maybe I should get some snacks. This'll be a long night. Which way is it again? Right is the hand I write with... left is... the way I left from-? Yes, turn left.."
+</0>
+<1>
+Drunk Divorcee: 
+"My cold, dark home... Is this even my home? These damn buildings all look the same! Same cold dark stone, and I thought it only-- only gets cold in the north? With them polar bears, and ice caps! But if you look at— at the map of the world... I live in the West"
+</1>
+<choice>
+SOUTH,EAST,WEST
+Go SOUTH towards the grocery store,Go EAST towards your apartment building,Go WEST towards the cinema
+
+You reach the end of the block. You can:
+</choice>
+<0>
+Drunk Divorcee: 
+"Maybe I should get some snacks. This'll be a long night. Which way is it again? Right is the hand I write with... left is... the way I left from-? Yes, turn left.."
+</0>
+<1>
+Drunk Divorcee: 
+"My cold, dark home... Is this even my home? These damn buildings all look the same! Same cold dark stone, and I thought it only-- only gets cold in the north? With them polar bears, and ice caps! But if you look at— at the map of the world... I live in the West"
+</1>
+<2>
+You go WEST towards the cinema
+</2>
+<go back>
+2,26
+</go back>
+Drunk Divorcee: 
+"Well a damn boring job it was, anyway! In college I wanted to be, like, whatshisname? Sherlock! Well, Sherlock Holmes my ass! Half my day I return wallets, the other third is false sec-- security alarms... a fifth gets bloody, but.. what a letdown! No hidden codes, or like... locked room murders-! When a case is solved, there is NO satisfaction – none at all!"
+Beyond the cinema is a maze of empty streets. There is nothing to do there. You can:
+•	GO LEFT to cross to the other side of the street
+o	A car zooms past you as you turn to face the road, and makes your head swim. Maybe 
+you should attempt this some other day
+•	GO RIGHT to get a taxi home
+o	The narrow pavement is obstructed by a turned over trash can. You haven’t done 
+parkour since high school. You're not warmed up enough for this
+You go FORWARDS into the maze of silent streets.
+
+Drunk Detective
+“And damn Kristen was telling me-- ‘MiKe, yOu sHoUlD cHaNgE jObS, yOuR sAlArY cAn’T sUpPoRt uS’.. 
+Well ‘us’ my butt! All she ever did was shopping! All day-- every day-- all I hear is “hOnEy, I'M gOinG oUt!”. 
+We can’t even pay for Libby’s preshcool! And she wants cus-- custody of her! She’ll be homeless within a 
+month, and she wants to drag our daughter into it?? Damn brainless pig..!”
+You sob angrily for a few blocks. You hear voices coming from nearby. At first they are hushed, but then 
+they begin to escalate. What should you do?
+•	INVESTIGATE
+o	The sudden disturbance to your miserable late night stroll makes you angry. You want to 
+yell at whoever is making the noise
+•	GO BACK
+o	You turn around to the way you came from. You turn too far and too fast and end up 
+facing the direction of the noise again
+You walk towards the dead end where the voices are coming from. The people at the dead end become 
+agitated. There are probably three of them.
+
+???
+“It’s a cop!”
+“shit, shoot!”
+
+The loud noise and sudden movement confuse you. You sway from side to side as you approach them, 
+you have no idea what you want to do next.
+You hear a gun being fired, and a crash somewhere behind you. You are still in your uniform, so you take 
+out your gun in response.
+
+Detective Mike
+“alright then! The game is on!”
+You shoot at the people in front of you, but you unsurprisingly miss. You yell some more.
+“Haha! Now that they’ve fired me, there’s nothing to– to stop me shooting everything I see!”
+This feels liberating. You have a lot of bottled up emotions.
+
+???
+“Capo, he’s drunk! What do we do?”
+
+You hear police sirens. You find it cute that they missed you, and it hasn’t even been one day yet.
+One of the men took off running. You should too – you don’t miss your buddies at all.
+
+???
+“We gotta bail!”
+“But what about him? He’ll rat us out!”
+“We’ll take him to boss, he’ll give him the right treatment. Hurry!”
+
+You feel something hit your head. Or maybe it was your neck. As your body collapses, your senses cut out. 
+It's nice to feel nothing for once.
+
+The mafia base
+[10:40 o’clock]
+[A dim room with concrete walls and floor]
+
+Your consciousness returns. Your neck is cramping, and you can’t feel your limbs. You realize you are 
+sitting up tied to a chair. You lift your head and your neck protests. A heavy man is sitting in an armchair 
+in front of you. A tall buff man is standing next to the door. The room has no windows, and the dim 
+electric lights are giving you a headache. Or maybe it’s the smells of stale air, mold, and your body that all 
+mix together in your nostrils. Yikes.
+
+Man in armchair
+“The sedatives finally wore off – you made me wait. I expect that you don’t waste any more of my time” 
+
+You think the irony is funny. The man stands up and walks up to you. He towers over you, and you don’t 
+dare talk back.
+
+Man in front of you
+“Ex-detective Michael Grisham. 32 years old. You were recently divorced and have a 5 year old daughter. 
+You tend to drink when you are stressed, and got wasted last night following your firing. You got mixed in 
+with our men, so we captured you and ran background checks on you.”
+
+The man’s condescending voice sounded ridiculous to you. You haven’t had anyone talk to you like this 
+since sixth grade. You wonder who he even is. He looks somewhat familiar. You blink in confusion while 
+the sedatives are still wearing off.
+
+Man in front of you
+“I am Mariano Giovanni, the boss of the Giovanni mafia family. I bet you feel lucky to see me, eh, with 
+that huge bounty on my head? Well it’s a shame you’ll never get it! We’d normally kill anyone who 
+disrupts our business, but recently I have found myself in need of a detective. One that wouldn’t give 
+away any of our mafia secrets once I let him run free, you know? And what a wonderful coincidence! Why 
+would I bother spending a day bribing cops when I just had a corrupt detective fall into my hands?”
+
+Your head is clearing up. You can’t believe your luck. You DO remember the reward for catching this sly 
+mafia boss. And you DO need any money you can get. Now what was he saying about capturing you 
+again-?
+
+Mariano Giovanni
+“Now let’s have us a little deal. You see, it seems we got a little rat chewing up our floors. Someone in our 
+family is a dirty little traitor, and he really wants to screw us all over with his dirty little plans. And we 
+have a big business deal approaching. One that will liven up our sad little lives a great deal! My consigliere 
+promised we will be drowning in money, and he has never made a wrong prediction. The traitor knows 
+this, and he wants to expose us and our genius little plans. Now wouldn’t that be tragic?”
+
+Giovanni’s sing-song voice was filled with malice and impatience. But you will never sympathize with him. 
+Serves him right!
+
+Mariano Giovanni
+“...So I say, you help us weed out the traitor, and I let you go, in exchange for your silence about us. 
+Should you refuse, I’ve already come up with perfect torture methods for you and your dear little 
+princess.  What do you think?”
+
+Cooperation with the Giovanni mafia family?! What a crazy turn of events! You know by Giovanni’s tone 
+of voice that he is sure he has won. But will you really let him have his way?
+•	DECLINE the deal
+o	(Loop)
+o	Detective Mike: “I would never agree to help a mafioso! If your organization is destroyed, 
+then it serves you right and I applaud that traitor! Have you forgotten, I’m a police officer? 
+I serve the law!”
+o	The tall buff man at the door comes up to you. He swings his fist back and hits you in the 
+stomach. The pain almost takes you back to unconsciousness. You lose 1 HP. You have x 
+HP left
+o	(if hp != 0: menu “do you accept the deal” again. If hp == 0: game over screen. Start the 
+game at the mafia base again)
+•	ACCEPT the deal
+o	Detective Mike: “I don’t care what you do to me, but I won’t let you hurt Libby! If you 
+promise not to hurt her, I will fulfil your evil request, damn rat”
+o	(Game progresses; your hp is fully restored)
+
+Companion and instructions
+[11:03]
+[Mafia base]
+
+Mariano Giovanni
+“Very well, now you shall be untied. I will assign you a supervisor to keep an eye on you, so don’t try 
+anything funny.”
+
+The tall buff man unties you from the chair. Blood flow is being restored in your limbs. You cautiously get 
+up and stretch. You would kill for a glass of water.
+The tall buff man leaves through the door, and an a few seconds comes in with a young man of a 
+presumably low rank.
+
+Mariano Giovanni
+ “This is your supervisor. You should call him Alleato. His task is to follow you and prevent your escape or 
+attempts to contact the police”
+
+You think that, if needed, you can easily snap the boy’s spine in half. How exactly does he intend to 
+control you? 
+
+But for some reason a voice deep inside you exclaims, “you say that to make yourself feel better; loser”.
+
+
+Mariano Giovanni
+“I have 4 suspects that I believe could be the traitor. First is my underboss, Manuele Bonanno. Second is 
+our associate, Roberto Orazio. Third is the soldier Figlio Inco. Fourth is the consigliere Angelo Rosolino. 
+Alleato is already informed of this and will make sure you interview them all. Come back to me by 
+tomorrow’s dawn and tell me your conclusion. Now off you go, we don’t have all day!”
+
+Alleato leads you out of the room. You are walking through a twisty corridor, and you are feeling awkward. 
+You try to start a conversation.
+
+Detective Mike
+“So where would a good starting point be for this investigation?”
+
+Alleato looks at you in confusion. Perhaps he expects you to already know how to do everything, either 
+because you’re a detective, or an adult. His thoughts are wrong either way. You don’t know shit and your 
+head is killing you
+
+Alleato
+“The bar is worth checking out first. It's run by one of our associates and that's where our lot tends to 
+hang. It's right beside our base”
+
+This is great-- you might kill 4 birds with one stone, and you’ll get a drink while you’re at it!
+
+•	Type LEAVE to leave the mafia base and go to the bar
+
+Bar – Figlio and Angelo Rosolino
+[11:15]
+[The bar]
+
+You arrive at the bar. It is surprisingly empty, apart from a few people. Perhaps it is too early for drinking 
+right now.
+
+Alleato
+“oh, the consigliere and the soldier that you’re looking for are here”
+
+That’s all great, but you’d rather have some water first. You realize you don’t have any money with you, 
+or your gun. That Giovanni must have taken them as insurance that you will come back to him. Guess 
+you’ll have to get your glass of water another way.
+
+Detective Mike
+“Hey Alleato, is it alright if I go to the bathroom first? I’m not feeling that great being tied up and sedated 
+after a crazy night at the pub”
+
+Alleato
+“Alright, but if you take too long I will break down the door. I bet you cops know of clever escapes”
+
+You enter the toilet. With your headache, you barely notice the smell. You open the tap and greedily 
+drink from it. You slide down to the floor to catch your breath. The ringing in your ears is fading. You can 
+think somewhat clearly for once.
+
+You get up and look in the mirror. Staring at your miserable reflection won’t cheer you up much, but it’s 
+just too tempting. One must always know how much of a mess he is after a rough night.
+
+You notice a sticky note in the corner of the mirror. 
+It says:
+“ -> Banana
+WAR       U
+         3:40 5/3”
+… in blue ink. In the bottom right corner of the note, there is a tick in black ink and a tick beside it in blue 
+ink
+
+You find it curious. You exit the bathroom and approach Alleato Maybe this is some mafia custom that 
+you are not aware of.
+
+Detective Mike
+“Hey Alleato, there’s a sticky note with cryptic text on the bathroom mirror. It’s curious, maybe you can 
+tell me something about that?”
+
+Alleato
+“That is one of the ways members of the mafia and our associates establish meetings with each other. 
+They write a message using their own code and then tick to confirm that the recipient got it. Not a very 
+reliable way – many prefer just asking the bartender to pass on any messages. Though it is more 
+anonymous...”
+
+Alleato
+“You’re a detective, aren’t you? You're not gonna stick it into your little notebook? What a weird lot you 
+cops are..! I thought you guys always collected random scraps you pick up on the streets”
+
+You pretend to not be offended and decide that perhaps it might come in useful. You take down the note 
+from the mirror. You take out your notebook and your pen 
+
+(menu to access notebook appears)
+•	Type NOTE to check your notebook
+
+(the notebook now contains this clue along with its context: “found this note on the bathroom mirror: -> 
+Banana WAR U 3:40 5/3”)
+
+Alleato
+“Now that you’ve done your emotional support ritual, how about you interview Figlio Inco? You and him 
+seem to have the same amount of braincells, I'm sure you’ll connect just fine!”
+
+Alleato gestured at the man in his 20s sitting on the far right of the bar counter. You approached him
+
+Figlio Inco
+“Why the heck is there a cop here? Did you bring him here, kid?!”
+
+Alleato
+“it’s boss’s orders, Figlio. You have to hear him out” 
+ 
+ Figlio Inco
+“Fine then, what did you want from me, huh?”
+
+You wonder how you should approach this.
+
+•	I came to make a DEAL
+o	Detective Mike: “Hey, uh, wanna make a deal? I can help you achieve even your most 
+ambitious plans”
+o	Figlio Inco is eyeing you suspiciously
+o	Figlio Inco: “And how would you do that exactly? You're spitting a lotta big words at me, 
+like you’ve never made a deal in your life! And why would the boss send you for that? I 
+don’t need any help with business!”
+•	I came to INVESTIGATE
+o	Perhaps if you knew why he joined this family, you would know his motives to stay, and 
+whether they are weak enough to betray it 
+o	Detective Mike: “I’m just conducting a wellbeing survey. Maybe you could tell me why 
+you joined this mafia family, for starters?”
+o	The man looks at you weirdly, and you feel like that was the worst question you could 
+ever ask him. You don’t know why, and that puzzles you
+o	Figlio Inco: “Boss’s orders you say? Well kid, you were fooled big time. Miss me with that 
+shit!”
+•	I’m looking for someone ELSE
+o	Why would a guy with the rank of a soldier plot to expose the mafia? It would be a better 
+use of your time to talk to the other suspects first
+o	Detective Mike: “Uh, do you happen to know the whereabouts of...”
+o	You check the smudged writing on the back of your hand. You regret not taking an Italian 
+class in college. You know you’ve mispronounced these names even before you say them
+o	Detective Mike: “...Manuele Bonanno, or... uh, Roberto Orazio?”
+o	Figlio Inco: “Why are you asking me about that jerk, huh?! I'm not telling you shit!”
+Figlio Inco leaves the bar in hurry. Your investigation is already going nowhere. Perhaps your social skills 
+are too low to be tricking mafia members -- you should probably take a course on that before you 
+approach this task...
+
+New clues were added to your notebook
+(notebook clue added - “Figlio Inco’s a short-tempered guy for sure. The questioning made him mad for 
+some reason”. The notebook can be viewed after the next interaction)
+
+Alleato
+“Don’t mind him, he’s a weird one. We’ll make more progress talking to the consigliere over there”
+
+He gestured to the man in the trench coat on the far left of the bar counter. A consigliere’s gotta be a lot 
+more reasonable, you figure. Maybe you’ll have better luck with him.
+The consigliere sat with his head on the counter and an empty glass to his side. Clearly, half past eleven 
+am was not too early for him to drink.
+
+Detective Mike:
+“You’re Angelo Rosolino, the consigliere, right?”
+
+The man didn’t even look up. 
+
+Angelo Rosolino
+“They call me that, yes...”
+
+Detective Mike
+(loop – game doesn’t progress until every choice has been selected)
+•	A) Detective Mike: “What exactly is a consigliere?”
+o	Angelo Rosolino: “I gain respect for pretending to be an emotionless robot and make 
+opinions sound like logical statements”
+o	Angelo sure is a tired kind of drunk
+•	B) Detective Mike: “You don’t sound like you’re enjoying that position very much”
+o	Angelo Rosolino: “Of course not! It's hard to remain impartial when you have feelings 
+drown your mind! And making decisions for the good of others... Why can no one make 
+decisions for me too?”
+o	This guy was probably a poet before he joined the mafia...
+•	C) Detective Mike: “Why did you take up this position?”
+o	Angelo Rosolino: “Oh how I wish that was my choice! Consiglieres get chosen by the 
+family, surely you know this! I was so clear-headed when I was younger, now look how 
+it’s biting me in the ass...”
+o	Yes, getting older sure isn’t fun
+Another fruitless interview - you just witnessed a man fall into depression.
+
+New clues were added to your notebook
+(new notebook clue: “Just talked to the consigliere, he’s drunk and going on and on about how feelings 
+make his work hard. Understandable.")
+
+•	Type NOTE to check your notebook
+•	Type LEAVE to exit the bar
+
+Attack
+[11:45]
+[Outside the bar]
+
+You exit the bar and turn the corner. Alleato is leading you to another location where the other suspects 
+could be found. You are taking a shortcut through a narrow passage between two adjacent buildings. You 
+are glad you’re not walking out in the hot late-spring sun.
+
+A masked man jumps out from behind a trash can. The sudden motion disorients you, and you fall to the 
+ground. That’s lucky because the man had just began swinging his fist at you, and it would have collided 
+with your face otherwise.
+
+Alleato made an alarmed noise. There is no way a scrawny guy like him could take out your opponent, 
+and you don’t have your weapons. Plus you’re hungover. Your best bet is to run.
+
+Which way do you run?
+•	UP towards the enemy
+o	You dive forward between his legs. This is not a maneuver he expected. Alleato hits the 
+man in panic. The man is thrown against the wall, and the two of you run towards 
+through the passage. The attacker comes to his senses and continues to pursue you
+•	DOWN towards the bar
+o	You take off in the direction you came from. The attacker expects it. He catches you 
+almost immediately and you have to fight with all your might to break free
+o	You lose 1 HP (HP-=1). You have x HP left
+
+You run until East River blocks your way. Which way do you run?
+•	UP towards the Mahattan Bridge
+•	On your way you come across a taxi waiting on the side of the road. You press the driver 
+to drive you to the end of the bridge and Alleato pays from his wallet. You gain some 
+distance between you and your attacker
+•	DOWN towards Brooklyn Bridge
+•	Running so far has made you exhausted. You trip and the attacker catches up to you. He 
+starts beating you. A crowd gathers around you. The sight of a cop getting beat up 
+attracts the police. Your attacker backs off. Not wanting to get stopped by the police, you 
+run through and away from the crowd. You gain some distance between you and your 
+attacker
+•	You lose 1 HP (HP-=1). You have x HP left
+
+You reach the end of the bridge and enter Manhattan. The attacker is far behind you for now, so you can 
+take some time to breathe. You slow down to a walk. You wonder why you’re even being attacked. Last 
+time you checked, your guts weren’t worth a cent...
+
+Perhaps the traitor has found out about your task to weed him out, and is trying to stop your 
+investigation. But how would he find out about you...?
+
+Alleato has pulled you into a bus stop. It's great to have someone else to make decisions for you.
+You get on a bus (and Alleato paid again), so now you can ride a safe distance away from when you last 
+saw the attacker. 
+Wait, who is that running towards the bus as it’s driving away? Looks like your adventure is not over yet.
+
+Have you ever tried running after the bus? If so, then you know that you never succeed. Which is why 
+there is now an impatient car following your bus. Whoever is chasing you is waiting for you to exit the bus 
+at every bus stop.
+
+You ride until Central Park and exit the bus after failing to shake off the pursuer. Next, do you:
+•	Run UP towards the Metropolitan Museum Of Art?
+o	You hope to hide in the vastness of the museum. The receptionist selling tickets is 
+confused about why a police officer who’s seen better days and a kid barely out of high 
+school are in such a hurry to view some art on such a calm May afternoon... 
+o	You waste too much time trying to buy tickets. You exit the museum impatiently, and are 
+jumped by the attacker. He avoids getting into a public fight like before. Your ego is hurt. 
+You don’t like thinking that you’re not important enough to be killed on the spot
+o	You lose 1 HP (HP-=1). You have x HP left
+o	Alleato stays in the museum to smooth over the rising commotion
+o	You run down to the Columbus Circle. You come across a bike left unsecured to anything. 
+You hop on the bike
+•	Run DOWN to the Columbus Circle?
+o	You come across a bike left unsecured to anything. You hop on the bike, leaving Alleato 
+behind. The attacker is pursuing YOU after all, or at least that’s what your ego is telling 
+you
+
+You cycle through Seventh Avenue and past Times Square. You can go:
+•	UP to Times Square
+o	As you turn your bike around, you bump into a person passing by. You fall and scrape 
+your knee.
+o	You lose 1 HP (HP-=1). You have x HP left
+•	DOWN to the Grand Central Station
+o	Cycling around the city almost feels like you’re relaxing on your day off, and don’t have 
+the uncertainty of whether you live or die hanging over you, or something.
+
+You reach the Grand Central Station. You could take a train from here back to Brooklyn, but you don’t 
+have any money and you left Alleato behind. Guess you’ll have to take a different route. You can go: 
+•	LEFT along 42nd street
+o	You go left, reach 6th Avenue, and ride down it. No surprises here
+•	RIGHT along 42nd street
+o	You go right, reach Franklin D. Roosevelt East River Drive, and drive down it
+o	You get attacked by a swarm of seagulls
+o	You lose 1 HP (HP-=1). You have x HP left
+o	You decide that it is best to take a route further away from East River. You turn towards 
+broadway
+
+You just passed Chinatown and you’re approaching World Trade Center. Well since you’re here, you 
+might as well check out one of there places. You can go:
+•	LEFT into the skyscraper maze
+o	Cycling around a bunch of skyscrapers has made you realise how hungry and tired you 
+are. Should've gone to Chinatown instead...
+o	You lose 1 HP (HP-=1). You have x HP left
+•	RIGHT towards Chinatown
+o	You explore Chinatown. Some stalls offer you little food samples. Yay for free food!
+
+You continue to make your way down Manhattan. You’re almost at Brooklyn bridge! You can finally go 
+back to where you came from. You bet that’s what the attacker would say to you, too...
+
+You decide to walk around Battery Park before you come back to your investigation. You find Alleato 
+there waiting for you. You wonder if he has some sort of telepathy powers, or just great stalking skills. 
+When he approaches you, he tells you that the attacker continues to chase you. Your best bet is to hop 
+on a ferry to Liberty Island and hope he doesn’t find you.
+
+There are 2 routes you can take to get to the ferry terminal:
+•	LEFT down the left side of the park
+o	You run into a very cute doggo. You decide to pet it, but it doesn’t want you to. You get 
+bitten on your shin. Ouch.
+o	You lose 1 HP (HP-=1). You have x HP left
+•	RIGHT down the right side of the park
+o	You enjoy the walk through the park
+
+You reach the ferry terminal and need to buy tickets. There are so many options...
+•	A) Child ticket
+o	You look over to Alleato and choose a child ticket. Alleato nudges you a bit too hard, 
+leaving a bruise. Apparently friendly jokes are not welcome in the mafia
+o	You lose 1 HP (HP-=1). You have x HP left
+•	B) Adult ticket
+o	Last time you checked, you were a grown man with a job (until recently), a wife (also until 
+recently), and a child (this may not be for long). You get the adult ticket
+
+•	A) 2 tickets
+o	Since Alleato has to follow you around, you get 2 tickets
+•	B) 1 ticket
+o	Maybe you shouldn’t get Alleato a ticket. You enjoyed being away from him for some 
+time.
+o	You ask for one ticket. Alleato doesn’t let that slide. You feel stupid for even attempting
+o	You lose 1 HP (HP-=1). You have x HP left
+o	(if HP==0, you start the chase again)
+
+Alleato paid for the tickets, and you hopped on the ferry. You use that time to write about your wild day 
+in your notebook.
+
+New clues were added to your notebook
+(new clues: “I was chased by a masked man through Manhattan. I believe he was the traitor who wanted 
+to stop my investigation”)
+
+•	Type NOTE to check your notebook
+•	Type LEAVE to leave the ferry terminal
+
+(back to full HP)
+
+Liberty Island
+[15:37]
+[Liberty Island]
+
+Alleato
+“Looks like he gave up pursuing us, but the next ferry isn’t until half an hour later. There's a café here, on 
+the Lombardo territory. Rosolino thinks having business with this family is good for us, so I suppose it’s 
+alright if you ask them about our suspects. Not all their guys share Rosolino’s opinion though, most are 
+quite hostile to us. Go figure”
+
+You agree to spend some time at the restaurant. You walk in and sit at the window table.
+Alleato calls over one of the waitresses, who looks cautiously at you and trots over.
+
+Alleato
+“This is Angelina Lombardo. She is the daughter of her family’s boss. This café is often used by members 
+of different mafia families to talk over business disagreements. She waits the tables to pick up juicy drama. 
+She’s your best bet in the whole of Manhattan right now”
+
+Angelina Lombardo
+“And you’re telling that to a cop exactly why-? If you turn us in, I’ll have to kill you on the spot. I won’t 
+even care about our families’ agreement” 
+
+Detective Mike 
+“I’m investigating mafia members as per Giovanni’s orders. This kid here is sent to keep an eye on me”
+Alleato nods in agreement, with the expression that shows that he clearly doesn’t want to be here.
+(loop – game doesn’t progress until you’ve chosen all choices)
+•	A) Detective Mike: “Do you know anything about Figlio Inco, Roberto Orazio, Manuele Bonanno, 
+or Angelo Rosolino?”
+o	Angelina Lombardo: “Of course! Angelo’s the Giovanni family’s consigliere! He’s so 
+generous to us, and really wants to make the most out of our business connections. Our 
+family would be having big losses if it wasn’t for him. That man really knows how to make 
+the best decisions. I bet he helped the Giovanni family make a fortune with his brains!”
+o	 The is a pause. You wait for her to talk about the other suspects. After a while you poke 
+her further. You suppose that being the boss’s daughter, all she really cares about is the 
+source of money – the other suspects just aren’t worth their weight in gold for her.
+o	Detective Mike: “and what about the other suspects? Do you know anything about them”
+o	Angelina Lombardo: “oh, no, they don’t hang around these parts...”
+•	B) Detective Mike: “What family agreement did you have?”
+o	Angelina Lombardo: “The Vittorio family who govern the Queens borough wanted to take 
+some of our Manhattan businesses on Long Island. The Giovanni family saw an alliance as 
+an opportunity to settle their own disputes with the Vittorio family. So we are currently 
+on good terms with the Giovanni family”
+•	C) Detective Mike: “Can I order some coffee?”
+o	Angelina Lombardo: “Sure, I’ll bring you some after our conversation!”
+o	You find it hard to believe that she’s not just a normal waitress. She seems skilled in social 
+interactions – just what you would expect from a woman in her position
+o	You shoot a glance over at Alleato. He knows he will have to pay for your coffee. He also 
+knows that he must treat you nicely because you are a police officer. You are enjoying 
+these feelings of power
+You dismiss Angelina and she brings you your drink. You finish it quickly and head out to catch the ferry.
+
+New clues were added to your notebook
+(new clues added to the notebook: “Angelina Lombardo is the daughter of the Lombardo family’s boss”;
+“the Lombardo and Giovanni families are allied in their dispute against the Vittorio family”; 
+“Rosolino was responsible for the recent alliance of the Lombardo and Giovanni families”; 
+“Rosolino believes that the Lombardo family is the most beneficial to deal with”)
+
+•	Type NOTE to check your notebook
+•	Type LEAVE to leave Liberty Island
+
+Taxi
+[17:30]
+[Brooklyn]
+
+You have returned to Brooklyn and are standing near the bar where the mafia meet. You had a crazy day 
+and can’t wait to collapse on your bed. But the sunset has reminded you that you have until dawn to find 
+the traitor; you decide to start investigating the other two suspects straight away. 
+
+Detective Mike
+“Which casino does the associate Roberto Orazio run?”
+
+Alleato
+“it’s a few miles away, so it’s best to take a taxi. We have associates in the taxi business, which is quite 
+handy. Let me go into the bar to make a phone call, the taxi will be here soon.”
+
+You accompany Alleato into the bar. He uses the telephone in the telephone booth in the corner, while 
+you look around the bar. The consigliere is still here, drowning in his unhappiness. There are a lot more 
+people there than earlier today, and the atmosphere is lively. You wish you could hang out here tonight, 
+but you have an investigation to do.
+
+The evening is chilly, so you wait inside for the taxi. You see it pull up to the bar through the bar window, 
+and the two of you walk outside.
+
+You get into the taxi and the car drives off. The ride takes 10 minutes. You spent the journey looking out 
+the window, deep in thought... Or perhaps you just zoned out. But you like to think you were deep in 
+thought.
+
+As the speeding taxi failed to stop right at the casino entrance, it hit the curb. You heard something heavy 
+slam on the ground behind the car. You turned around, but the opened boot of the taxi was blocking your 
+view. You and Alleato jumped out on the car in alarm.
+
+You run around the vehicle to see what had happened. The bright lights of the casino front and the 
+taillights of the taxi clearly showed a man lying on the ground. By the time you, Alleato, and the taxi driver 
+have gathered around the scene, the man was scurrying to his feet.
+
+He has the same mask on as the attacker earlier today. In fact, you are sure that he IS the attacker.
+You grab him before he succeeds to clumsily make a run for it.
+
+Detective Mike
+“Alleato! Take his mask off!”
+
+The man is struggling against your grip, by Alleato pulls the mask off. The man that was hiding in the boot 
+of the car is none other than... 
+
+Alleato
+“Figlio Inco!”
+
+In your surprise, you loosen your grip. Figlio sees this as a chance to escape, and dives into the traffic at 
+the crossroads a few yards away. Alleato makes the move to go after him, but you still stand there in 
+confusion. He takes this as a sign to stop the pursuit. You are too embarrassed to tell him that your brain 
+is just incredibly slow.
+
+Taxi Driver
+“Whatever just happened, the man seems alright. I shall be leaving – it's rush hour and my service is in 
+high demand”
+
+The driver opens the door to the driver’s seat. This doesn’t feel right. You must question him!
+
+Detective Mike
+“Wait!”
+The driver pauses and looks at you
+(another loop, you know the drill)
+•	1) Detective Mike: “Are you not concerned about this man’s possible injuries?”
+o	Taxi Driver: “Well, he seems to feel good enough to be running around. I don’t suppose 
+he got hurt badly”
+•	2) Detective Mike: “Are you not surprised that the man was in the boot?”
+o	Taxi Driver: ”He got in just before you did. I assumed he was with you. You mafia lot do 
+weird things all the time!”
+•	3) Detective Mike: “Do you know why Figlio his in the boot?”
+o	Taxi Driver: “Beats me! Since it looks like you’re on bad terms with each other, I bet he 
+was trying to spy on you”
+
+Taxi Driver
+“If you are done interrogating me, I have some money to make now. Speaking of, you haven’t paid for 
+your trip. You’ll have to pay for the lunatic’s trip as well.”
+
+Alleato paid for the trip. He was not happy. You assume you’ll have to pay back that money once your 
+investigation is over. That thought does not spark joy.
+
+The taxi drives off, and you are left standing in front of the casino. With no hope of catching Figlio Inco 
+now, you decide to get on with investigating the remaining suspects.
+
+New clues were added to your notebook
+(new clue: “Figlio Inco was hiding in the boot of the taxi we took to the casino. He turned out to be the 
+attacker that attacked us earlier. He escaped after he was found out”)
+
+•	Type NOTE to check your notebook
+•	Type LEAVE to leave the street and go into the casino
+
+The casino
+[17:56]
+[Casino]
+
+“The Celesta” -- Nice name for a Casino. You slowly make your way up the glimmering white and red 
+stairs, understanding that this is most likely the theme for this money grabbing machine. You reach the 
+door
+
+•	Type OPEN to open the door
+
+You almost become deaf as the instantaneous onslaught of laughter, crying, music and the “Ding, Ding”, 
+of slot machines drill into your eardrums. You almost regret swinging open the doors. Stepping in you are 
+ushered by a young waitress doing all the basic formalities you expect from a customer service employee, 
+but before she can speak any further, Alleato Interrupts.
+
+Alleato
+“Da Vinci, Michelangelo, Cesare, Giotto, Masaccio”.
+
+All it takes are five words to turn the jolly vibrant waitress, into a petrified statue. 
+(　〇□ 〇)
+She takes a huge Gulp and squeaks out:
+ 
+Waitress
+“Sure sir, please follow me”.
+
+As you follow the waitress you see Alleato on full alert, ears perked and head straight; exactly like a 
+gazelle when it senses danger.
+
+Detective Mike
+“Why so worried?”
+
+Alleato
+“It makes no sense, I see a couple of bastards from the Vittorio family. No one visits rival family 
+businesses, it’s a death wish”
+
+You quickly make a note of that
+New clues have been added to you notebook
+(New clue: “Rival gang members in the casino, they shouldn’t be there unless invited”)
+
+The waitress leads you to the back of the bar and continues to several corridors until you reach a door 
+guarded by a monstrosity of a man. You look at him from tip to toe and realize that he must be at least 
+detective mike x4. He smiles a smile of recognition to Alleato and lets him in.  You take that as a sign of 
+entry, but before you can set your foot in a hand strong as concreate smacks you in your face. You hold 
+you right cheeck because it hurts so much.
+
+Bouncer
+“Password”
+
+Detective Mike
+“Wait what?”
+
+Bouncer
+“PASSWORD”
+
+This time the bouncer said it in a much tougher voice.
+You stand there bamboozled, thinking, “password? What password? Is he talking about the stuff Alleato 
+said to the waitress in the beginning?”
+Before you can finish your train of thought, Alleato rushes out and shouts:
+
+Alleato
+“This stronzo is with me, let him in!”
+
+Bouncer
+ 
+“You know the rules and so do I. No exception” 
+
+Alleato looks at you with distraught.
+
+Alleato
+“You heard me say them a few minutes ago, don’t be stupid enough to forget them, remember you only 
+have once chance, or you can... say goodbye”
+ 
+(Obviously we cannot insert the pictures, but the words need to be the same and if we can for an easter 
+egg we can add just a snippet of the rickroll music, just a little bit)
+
+(after the player presses enter, the 5 keywords that were on the screen previously need to be replaced 
+with “** **n**, *********e**, ***a**, **o***, *******o” in that order, so if the player scrolls up, he 
+won't be able to cheat)
+
+You need to remember the words, or you will be kicked out, but you don’t remember them specially 
+because they are Italian  -- you whine to yourself.
+
+•	Type in the letters of the words in the password phrase in the correct order (e.g. ABCDE) 
+•	A) Ceaser                                                        B) Cesare                                                D) Gotto
+•	E) Michagelo                                                  F) Maschio                                             G) Da Vinci
+•	H) Masaccio                                                    I) Giotto                                                  J) Michelangelo
+•	(the options have spelling mistakes on purpose, do not change them, even if word wants to do 
+so)(I assume this is a loop where the game won’t advance to the next scene until you’ve chosen 
+the right option? Because if you fail and don’t question the suspect, you’re likely to make the 
+wrong choice)
+o	(Wrong input)
+	The bouncer menacingly looks at you for a minute and slaps you on your left 
+cheek this time sending such a shock of pain you black out. 
+	When you wake up, you find yourself outside in an alleyway. As you rub your 
+cheeks which are puffed red from the slaps, you hear someone
+	Alleato: “Hey imbecile”
+	You look at him with a face of shame as you remember what happened.
+	Alleato: “I'm not even going to bother commenting on your stupidity you sorry 
+excuse of a detective; understand this, we have lost a chance at interrogating 
+Roberto Orazio and will have to leave with uncertainty in our heads”
+o	GJBIH
+	(everything that follows this bullet point)
+
+The green light is given and you strut your way in. As soon as you enter your nostrils are bombarded with 
+the musky smell of sweaty fat men and the smoky aroma of Cuban cigars. The room is full of old men 
+laughing and shouting; but one thing stands out to you, they are all heads of the Vittorio family. What are 
+they doing here? Before you can finish thinking, Alleato talks
+
+Alleato
+“Sorry to interrupt your evening gentlemen, but I must borrow Mr. Mariano Giovanni”
+
+A grumpy old man wearing a cheap brown suit with stains of sauce and bread on it stands up.
+
+Roberto Orazio
+“Ahhhhh, I was expecting you my friend. Word got out that you were looking for me. Come have a seat, I 
+have reserved a place right next to me.” 
+
+Alleato looks at you, trying to hide disgust
+
+Alleato
+“Go, I can't stand the odor in this room  -- it smells like horse manure. I'll be outside, come to me when 
+you're finished.”
+
+He isn't wrong, it does smell like horse manure, but not only that -- it also smells like that horse has died.
+Alleato leaves and you make your way to Mariano.
+
+Detective Mike
+“I'll go straight to the point Mr. Orazio. What are rival family gang members doing here?”
+
+The room goes silent, every eye is upon you. No one talks for a whole minute and you just sit there 
+awkwardly. When suddenly, a Vittorio gang capo speaks
+
+Vittorio capo:
+“è lui stupido, siamo qui perché stiano fumando erba e prendendo in giro voi ragazzi. Stupidi Giovanni”
+
+And then the room roars in laughter, you sit there still quiet but now more embarrassed. You thought you 
+escaped being the bullied kid in school, but it seems now just like in the classroom – you're being made 
+fun of t an adult age (-﹏-。).
+
+(the above lines of the Vittorio capo are replaced with asterisks so you can’t peek: è *** s***** ***** 
+*** ****** ****** ******* **** * ********* ** **** *** ******* ******* *******)
+
+Yu do not want to risk the same mistake as before and not pay attention to something and quickly pick 
+out your trusty notebook and write down whatever the man said
+
+Choose the correct option
+•	A) è lui stupido, siamo qui perché stiano complottando contro e prendendo in giro  voi ragazzi. 
+Stupidi Giovanni
+•	B) è lui stupido, siamo qui perché stiano fumando erba e prendendo in giro voi ragazzi. Stupidi  
+Giovanni
+
+New clues were added to your notebook
+(new clues: “I heard the Vittorio Capo say at the casino,” + whatever option the player selected)
+
+Detective Mike
+*whispering to himself*
+“I hope I got it right”
+
+As you finish writing down the words, the laughter dies down. Roberto apologizes on their behalf.
+
+Roberto Orazio
+“They are just making fun of you, don’t worry! Tell me: do you have any more problems?”
+
+You think for a bit and then decide you had enough.
+
+Detective Mike
+“Thank you, but I'm all done”
+
+As you are saying this, you are already leaving for the door
+
+Roberto Orazio
+“Take care detective, and make sure you reach home safe!”
+
+The words are oozing with sarcasm. As you exit you hear them burst out in laughter again. You see Alleato 
+conversing with the bouncer. You approach him.
+
+Detective Mike
+“Let's go, I have all I need... Oh, I need to ask you a question”
+
+Alleato
+“Fire away”
+
+Detective Mike
+“Not here”
+
+As you get out of the casino you figure now is ok to ask Alleato about the capo’s speech.
+
+Detective Mike
+“Translate something for me”
+
+You show him the Italian sentence you wrote down.
+
+•	Player’s previous choice was A (wrong option)
+o	As Alleato reads the words, his eyes widen.
+o	Alleato: “Those dumbasses thought you couldn’t understand Italian, so they blurted their 
+conspiracy out, hah!”
+o	Detective Mike: “What does it say?!”
+o	Alleato: “He's stupid, we're here because we're plotting against and fooling you guys. 
+stupid Giovannis”
+o	You grin from one eye to the other. You are so happy, you are a genius! “JACKPOT!” you 
+shout.
+o	New notebook clues were added
+o	(new clue: “The sentence I heard translates to ‘He's stupid, we're here because we're 
+plotting against and fooling you guys. stupid Giovannis’”)
+•	Player’s previous choice was B (correct option)
+o	Alleato reads it thoroughly and then bursts out laughing.
+o	You feel like he is laughing at you and your poor Italian spelling
+o	Alleato: “Detective, you are a clown. A real clown! Everyone makes fun of you, even this 
+old man…”
+o	Detective Mike: “Wait, what does it say?!”
+o	Alleato: “He's stupid, we're here because we're smoking weed and making fun of you 
+guys. Stupid Giovanni”
+o	You feel your face flush and you spend the next half an hour not making eye contact with 
+Alleato. You’re too furious to talk. This is just not your day.
+o	New notebook clues were added
+o	(new clue: “The sentence I heard translates to ‘He's stupid, we're here because we're 
+smoking weed and making fun of you guys. Stupid Giovanni’)
+
+•	Type NOTE to check your notebook
+•	Type LEAVE to go to the next scene
+
+The bar (again lol) (these checkpoints really gotta be labelled bar 1 and bar 2, we love drinking a bit too 
+much)
+[18:45]
+[Mafia bar]
+
+You return to the bar in which mafia members spend their free time. You almost feel like a part of the 
+family at this point – you've been to this bar 3 times today.
+
+You and Alleato sit down at a table to think through your last move. Your last suspect is Manuele 
+Bonanno, the underboss. Alleato is unable to tell you where the underboss could be, and you’re stuck 
+with figuring this out on your own. The clock is ticking, and you’re running out of time.
+
+You stand up and clear your throat.
+
+Detective Mike
+“Uh, excuse me! Would anyone here know where Manuele Bonanno can be found?”
+
+You have to try a few more times before you are noticed by the people in the bar.
+
+???
+“No one knows where he is these days, get with the times! Always running off for shady business...”
+“Probably planning to murder the boss to get his hands on the fat cash, hahaha”
+“Abusing his power to boss soldiers around, I bet”
+“Why would a cop even need to know?! Someone get security--”
+
+You don’t even want to think about the consequences if you fail to uncover the traitor. You order a glass 
+of something, and hope Alleato still has some money to spare. You are not drinking tap water again.
+
+The consigliere that is still at the bar counter is whining about his pathetic life again. You hope it’s not 
+contagious
+
+Angelo Rosolino
+“Me and Angie are just like Romeo and Juliet (╥﹏╥). If I marry her, I’ll be killed by the boss. There’s 
+truly only one way out of this misery (ಥ⌣ಥ). But what a gigantic task that would be! Oh wait, I was the 
+one who pushed the boss the idea-- (☉o☉) ahahahaa~ I need to stop drinking. (◠‿◠)”
+
+You take out your notebook. You need to vent about that wannabe poet to someone.
+New clues were added to your notebook
+(New clue: “Rosolino the consigliere will not shut up about some Angie and how they are like Romeo and 
+Juliet. A marriage resulting in his death... That’s quite disturbing”; “I tried asking the drunks at the bar 
+about Bonanno. From what I heard, he’s power hungry and is disliked here.”)
+You start putting it away, but... Maybe you have noted down something that can be used to learn of the 
+underboss’s whereabouts?
+
+•	Type NOTE to check your notebook
+
+Hang on a second, that note you found at the start of the investigation is addressed to “banana”. Could 
+that be Bonanno’s code name?
+
+You think about the rest of the message: “WAR U 3:40 5/3”
+It seems like it is telling the date and time of a meeting, and the letters must mean the meeting place.
+
+Detective Mike
+“Hey Alleato, what’s the date today?”
+
+Alleato
+“May the second. My cousin’s friend’s goldfish’s birthday. A shame I couldn’t attend...”
+
+You feel somewhat responsible that Alleato missed the birthday party. But it wasn’t your intention to get 
+kidnapped, so really the responsibility isn’t yours at all.
+
+Wait, what were you thinking again? You look at the 3 empty glasses in front of you as you rack your 
+brains for the reason you’re feeling emotional about a goldfish.
+
+Right! The note has a date on it! And that date is... Yesterday? Today? No, wait...
+•	Type in when the date of the meeting occurs (“tomorrow” or “no, this doesn’t sound right! I need 
+to try again”)
+
+Yes, and 03:40 o’clock...
+•	Will you be able to get to that meeting before your dawn deadline? (“Yes” or “you must have 
+forgotten how time works. You never understood that wibbly-wobbly timey-wimey stuff...”
+
+You may still be able to track him down! But where is the meeting place?
+Hey, wasn’t the message laid out in a strange format?
+
+“WAR      U
+          3:40 5/3”
+
+If I just squish the 2 rows together...
+“WAR3:40U5/3”
+
+The letters and numbers are dancing in front of your eyes, but you swear they make sense together. 
+•	What does it say?! (type in the answer. The result is “warehouse” or “hang on, don’t these 
+numbers look a bit like certain letters? I'm sure they are spelling out the name of the meeting 
+place”)
+
+Detective Mike
+“That’s it! Someone is meeting Bonanno at 3:40 am tomorrow night in the abandoned warehouse 6 
+blocks down!”
+
+...is what you wanted to yell, but it came out like a very disappointing murmur. You're far too tired for this.
+
+Alleato sighed. It's like his adventures with you never end.
+You still have plenty of time. You could try making sense of all your clues and talk to more people, but... 
+You are feeling very full of yourself for figuring out the clue that may or may not even be correct, so you 
+decide to pass out on the table for a few hours. You totally deserve this.
+
+New clues were added to your notebook
+(New clue: “The note I found at the start of the investigation was deciphered as Bonanno, Warehouse, 
+third of May, 03:40am”)
+
+•	Type NOTE to check your notebook
+•	Type LEAVE to go to the warehouse
+
+The warehouse
+[03:43]
+[The abandoned warehouse]
+
+You pull up to the abandoned warehouse in a taxi. Alleato had to literally drag you into it, and now that 
+you’re comfortable on the soft leather seat, you have no desire to get out of it into the cold night.
+
+It is the time of the deal, but you still have to search every corner of the building before you can witness it. 
+You hope you won’t be late. And most of all, you hope you deciphered the note correctly. 
+
+You and Alleato carefully walk through the concrete structure with flashlights.
+It wasn’t until you reached the upper floor of the building that you heard voices.
+You turn off your flashlights and follow the sound.
+
+Alleato
+*whispering* 
+”Hey, that voice is definitely our underboss! I can’t believe that note you deciphered was legit!”
+
+You hide behind a wall some more, maybe if you eavesdrop a little, you’ll learn something interesting
+
+Detective Mike
+“Hang on a second... That other voice...”
+
+You peek out from behind the wall. You can see the silhouettes of the two people.
+
+Detective Mike
+“That’s a fellow police officer! What the hell is he doing here?!”
+
+You whisper came oud louder than you meant. The two people hurried over in your direction. Alleato 
+pulled out his gun.
+
+They rounded the corner to where you and Alleato were hiding. Simultaneously, you turned on a 
+flashlight and pointed it at the underboss, and Alleato yelled.
+
+Alleato
+“We are armed! We came upon Giovanni’s orders! We don’t intend to fight!”
+
+The four of you stood in a circle, pointing something at each other for a few hot seconds as you analyzed 
+the situation.
+
+Police officer
+“G-Grisham! What the hell are you doing here? You also work for the mafia? Or did you come to bust us?”
+
+Detective Mike
+“I got involved due to circumstances outside of my control. I doubt you can say the same!”
+
+You figure that the police officer in the least of your problems right now. The sun will rise in about 2 hours. 
+You need to get this investigation finished.
+
+Detective Mike
+“I came to interview Manuele Bonanno as per Mariano Giovanni’s orders. I saw the note left on the toilet 
+mirror at the mafia bar and figured this was my best bet to find him. No one around us had a clue where 
+he disappeared to. I do not intend to deal with you, Lewis. I’m on a tight time limit and would appreciate 
+if you didn’t make this complicated.”
+
+Manuele Bonanno dismisses the police officer, though he doesn’t put away his weapon. This situation is 
+gonna be a pain in the ass to untangle. Thankfully, you have a (literal) partner in crime to de-escalate the 
+situation.
+
+Alleato
+“He’s doing some detective work to smooth out a bunch of conflicts that have been cropping up. Just 
+answer his questions well enough and he’ll stop pestering you”
+
+Manuele Bonanno
+“Alright then, what did you want from me? You interrupted a deal that could’ve made us a fortune!”
+
+With a low rank police officer? The mafia sure works in mysterious ways...
+
+(~loop~)
+•	1) Detective Mike: “Why are you the underboss of this family?”
+o	Manuele Bonanno: “Everyone asks me that, eh?”
+o	Detective Mike: “What do you mean by that?”
+o	Manuele Bonanno: “Well you’d think that the boss’s son would be the underboss, but I 
+guess I, the nephew, am just a lot more suited for the position! The man’s still sour that 
+he’s just a mere soldier~”
+o	Wow - this man’s ego is so big, it fills up teh entire warehouse
+•	2) Detective Mike: “I didn’t know the Giovanni family worked with the police”
+o	Manuele Bonanno: “Well you’re one of em, aren’t ya? I don’t see why you would be so 
+surprised”
+o	Detective Mike: “I didn’t get involved out of my own will. I was kidnapped and threatened 
+into cooperation. I never would have guessed my co-workers were this corrupt, and yet I 
+got fired just because I drank on the job a few times?!”
+o	Manuele Bonanno: “The whole point is that the chiefs and other police officers don’t 
+know you work with is! But this line of work is quite new to us. Our family focuses more 
+on casinos and taxis and the like”
+o	Detective Mike: “So why did you decide to start working with us?”
+o	Manuele Bonanno: “I don’t know why Mariano wanted to work with you specifically, but I 
+am planning to chang or business a little if something happens to our boss. As the 
+underboss, it’s my responsibility to secure a bright future for our mafia family, you see? 
+And I'm having my doubts about Orazio and his casino...”
+o	That makes sense
+•	3) Detective Mike: “As the underboss, I presume you know something about Figlio Inco? That 
+man has been worrying me”
+o	Manuele Bonanno: “Oh, the boss’s son? Yeah, he can be a handful, but is totally harmless. 
+And why did you shorten his nickname? It sounds less silly that way~”
+o	Detective Mike: “Hang on, did you just say he’s Giovanni’s son?! And what do you mean 
+shortening the nickname?”
+o	Manuele Bonanno: “Well, he’s really caleld Alberto Giovanni, but we all know him as 
+Figlio Incompetente. You know, the incompetent son.”
+o	How did you never even stop to think, “what kinda last name is Inco”? On yeah, cuz you 
+don’t speak a lick of Italian
+o	Detective Mike: “So you don’t think he’s a threat to anyone then? He attacked me and 
+tehn attempted to follow me on my investigation”
+o	Manuele Bonanno: “The key word her is ‘attempted’. The guy never gets anywhere with 
+his silly circus tricks”
+o	You are not convinced
+
+Manuele Bonanno
+“If we’re done here, I havemore important things to do. I cannot waste any time since teh future of our 
+family rests on my shoulders”
+
+Alleato
+“Yeah I’m pretty sure he’s just gonna go drink at the bar...”
+
+New clues were added to your notebook
+(New clues: “Manuele Bonanno was meeting with one of the police officers”; 
+“Figlio Inco is the son of Mariano Giovanni”; 
+”Figlio Inco’s real name is Alberto Giovanni”; 
+“Figlio Inco is short for Figlio Incompetente – incompetent son”; 
+“Bonanno is the nephew of the boss”; 
+“Bonanno plans to change the family’s business when he becomes the boss”; 
+“Bonanno is suspicious about Orazio”; 
+“Bonanno thinks Figlio is not a threat”)
+
+•	Type NOTE to check your notebook
+•	Type LEAVE to leave the scene
+
+Boss’s office
+[05:06]
+[Mafia base]
+
+Alleato leads you back to the boss’s office in the mafia base. You knock on the door. You hear an 
+impatient “come in!”. You open the door and walk in. Mariano Giovanni is sitting at a solid dark-coloured 
+desk. 
+
+Mariano Giovanni
+“You came to tell me the good news, I expect?”
+
+Detective Mike
+“Yes, uh... Sir?”
+
+The boss laughed with a sound that resonated throughout the whole room. Maybe the formality wasn’t 
+necessary, but you’d like to keep your head connected to your body if possible.
+
+Mariano Giovanni
+“Well then, who is the traitor?”
+
+Giovanni is tapping his fingers impatiently on the desk
+
+Hmm... Who did you find has a motive that requires this mafia family to be taken down?
+It’s hard to say right off the bat!
+
+The underboss Manuele Bonanno wants to become the boss of the family.
+The consigliere Angelo Rosolino is romantically involved with the underboss of an ally mafia family.
+The soldier Alberto Giovanni wants to become the underboss of the family.
+The associate Roberto Orazio wants to work with a rival mafia family.
+
+Your thoughts are interrupted by the boss.
+
+Mariano Giovanni
+“Are you ready to give me an answer yet? It’s the beginning of sunrise and you will pay with your 
+daughter’s life if you don’t complete your task, hahaha!”
+(loop)
+•	Type NOTE to check your notebook
+•	Detective Mike: “I want to clarify something first” 
+o	“Can you tell me about Manuele Bonanno?”
+	Mariano Giovanni: “Ah, the underboss! He does his job extremely well. I never 
+made as much money when I had other underbosses”
+	Detective Mike: “I’m not surprised, he’s trying to make deals with everyone in 
+Brooklyn! He even got the police on his side”
+	Mariano Giovanni: “Well that’s the first time I hear of that! He must report all his 
+operations to me, and yet he never told me he was expanding our business...”
+o	“What do you know about Angelo Rosolino?”
+	Mariano Giovanni: “What an excellent consigliere he is... When he became 
+determined to make an alliance between the Giovanni and the Lombardo family 
+happen, I was skeptical about its benefits. But it allowed us to gain more 
+resources to defend against the Vittorio family’s aggressive attacks”
+	Detective Mike: “Has he been doing his job well recently?”
+	Mariano Giovanni: “I have no big complaints. Though his eagerness for alliance 
+does not sit well with me – our family must be able to do business and protect its 
+territory independently. He goes on far too many meetings with the Lombardo 
+family”
+o	“About Alberto Giovanni-”
+	Mariano Giovanni: “Ah, you found Figlio’s real name! To be honest, everyone 
+calls him Figlio Incompetente so I completely forgot he even has a real name, 
+haha”
+	Detective Mike: “He is your son, correct? Why is he not the underboss?”
+	Mariano Giovanni: “He is incapable of doing the jobs expected of the underboss, 
+and will not be a good successor to me. Being a soldier suits him better”
+	Detective Mike: “He seems to be on bad terms with Bonanno”
+	Detective Mike: “He’s jealous of course, even furious! Bonnano took up the place 
+Alberto was supposed to occupy. That’s quite the tragedy...”
+o	“Roberto Orazio confuses me”
+	Mariano Giovanni: “Yes, this associate is a sly man – what else would you expect 
+from a casino owner?! But that works in his favor in his business, so he is a 
+valuable associate for us”
+	Detective Mike: “I saw Vittorio family members in the associate’s casino”
+	Mariano Giovanni: “It doesn't bother me who frequents that casino. No matter 
+who it is, they spend money on drinks and games, and we inevitably profit from 
+them. Though since the Vittorio family has more power in New York City, I may 
+need to have a little chat with Roberto~~”
+•	Detective Mike: “Yes, I am ready to give my answer” (breaks loop)
+o	Detective Mike: “The traitor is...”
+	1) Manuele Bonanno
+	2) Angelo Rosolino
+	3) Alberto Giovanni
+	4) Roberto Orazio
+
+Mariano Giovanni
+“Well then, I shall execute this man. Listen here, you rat! You better not be playing games with me. If the 
+business deal gets exposed, your life will turn very sour! Now you will get your ass out of this building, 
+and not rat us out to your police buddies. I hope we never meet again.”
+
+(correct traitor = Angelo Rosolino)
+
+•	Type LEAVE to exit the mafia base
+
+End sequence
+[May 5th]
+[Your apartment]
+
+It has been 2 days since your Giovanni family detective work. Can't really say life has returned to normal 
+yet, but at least you got enough sleep last night, ate 3 meals, and have seen the outside.
+Oh, and of course, you won custody over your daughter. Things are starting to look up – perhaps you 
+should start searching for a new job soon.
+
+You sit down on the sofa in front of the TV with Libby; your favourite film is coming on after the news. 
+You’ve got snacks ready, and have the next bedtime story you want to read her in mind. You switch off 
+the lights and get buried in blankets and pillows.
+
+Today is the day the big mafia deal was supposed to happen. If you’ve accused the wrong person of being 
+the traitor, the deal will be exposed, and you will be punished.
+You turn on the TV. The news presenter is summarizing the news of the day.
+
+•	(You were wrong about the traitor)
+o	Your blood runs cold. Your conclusion was wrong. You hear a knock on your apartment 
+door. 
+o	“When”                                        (Press “ENTER”)
+o	“They come”                               (Press “ENTER”)
+o	“They come”                               (Press “ENTER”)
+o	“At what you love”                      (Press “ENTER”)
+o	(GAME OVER screen)
+•	(You were correct about the traitor)
+o	Looks like nothing of note has happened today. You zone out for the rest of the news 
+program, feeling relieved. 
+o	You take a deep breath and open your first bag of snacks. Your favourite film is starting.
+o	(Game won screen)
+
+
