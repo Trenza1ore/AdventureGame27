@@ -13,25 +13,24 @@ clue_book = [
     "The Lombardo and Giovanni families are allied in their dispute against the Vittorio family." + ' \n ' +\
     "Rosolino was responsible for the recent alliance of the Lombardo and Giovanni families." + ' \n ' +\
     "Rosolino believes that the Lombardo family is the most beneficial to deal with." + ' \n ' +\
-    "Figlio Inco was hiding in the boot of the taxi we took to the casino. He turned out to be the attacker that attacked us earlier. He escaped after he was found out" + ' \n ' +\
+    "Figlio Inco was hiding in the boot of the taxi we took to the casino. He turned out to be the attacker that attacked us earlier. He escaped after he was found out",
 
-    "Rosolino the consigliere will not shut up about some Angie and how they are like Romeo and Juliet" + ' \n ' +\
-    "I tried asking the drunks at the bar about Bonanno. From what I heard, he’s power hungry and is disliked here."+ ' \n ' +\
-    "The note I found at the start of the investigation was deciphered as Bonanno, Warehouse, third of May, 03:40am" + ' \n ' +\
-    "Manuele Bonanno was meeting with one of the police officers" + ' \n ' +\
+    "Rosolino the consigliere will not shut up about some Angie and how they are like Romeo and Juliet",
+    "I tried asking the drunks at the bar about Bonanno. From what I heard, he’s power hungry and is disliked here.",
+    "The note I found at the start of the investigation was deciphered as Bonanno, Warehouse, third of May, 03:40am",
+    "Manuele Bonanno was meeting with one of the police officers",
     "Figlio Inco is the son of Mariano Giovanni" + ' \n ' +\
     "Figlio Inco’s real name is Alberto Giovanni" + ' \n ' +\
-    "Figlio Inco is short for Figlio Incompetente – incompetent son" + ' \n ' +\
+    "Figlio Inco is short for Figlio Incompetente – incompetent son",
     "Bonanno is the nephew of the boss" + ' \n ' +\
     "Bonanno plans to change the family’s business when he becomes the boss" + ' \n ' +\
     "Bonanno is suspicious about Orazio" + ' \n ' +\
-    "Bonanno thinks Figlio is not a threat" + ' \n ' +\
-
+    "Bonanno thinks Figlio is not a threat"
 ]
 
 clue_book.reverse()
 
-def limit_line_length(list_or_words: list, max_line_length: int=60) -> int:
+def limit_line_length(list_or_words: list, max_line_length: int=100) -> list:
         lines_length = []
         output = [[list_or_words.pop(0)]]
         current_line_num = 0
@@ -54,7 +53,6 @@ def limit_line_length(list_or_words: list, max_line_length: int=60) -> int:
 def print_notes() -> None:
     clear_screen()
     print_title("notebook", 0.1)
-    print('-' * 105)
     for i in range(len(All_Notes)):
         sleep(0.3)
         words_to_print = limit_line_length(All_Notes[i].split(' '), 100)

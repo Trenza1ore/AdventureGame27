@@ -1,6 +1,18 @@
 from Locations import *
 
-key_words = ["go", "notebook"]
+key_words = [
+    "note",
+    "south", "east", "west",
+    "left", "right", "forwards",
+    "investigate", "back",
+    "decline", "accept",
+    "leave"
+    "note"
+    "deal", "investigate", "else",
+    "a", "b", "c",
+    "note", "out",
+    ""
+]
 
 def Remove_Punc(user_input: str) -> str:
     output = ""
