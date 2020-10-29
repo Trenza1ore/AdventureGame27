@@ -1,7 +1,7 @@
 from Normalise import Parse_Input
 from Notebook import limit_line_length, print_notes, All_Notes, clue_book
-from time import sleep
 from Beautiful_Font import *
+from time import sleep
 from os import remove
 
 # remove the temporary file
