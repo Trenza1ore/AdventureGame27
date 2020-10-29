@@ -4,11 +4,16 @@ from time import sleep
 from Beautiful_Font import *
 from os import remove
 
+# remove the temporary file
 try:
-    remove("player_notes")
     remove("save")
 except:
     pass
+try:
+    remove("player_notes")
+except:
+    pass
+
 script_tags = [
     "<title>",
     "<slide>",
@@ -19,16 +24,13 @@ script_tags = [
     "<change word>",
     "<Unknown>",
     "<Unknown>",
-    "<Unknown>"
-]
+    "<Unknown>"]
 special_tags = [
     "<lose 1 hp>",
     "<add clue>",
     "<notebook>",
-    "<save final choice>"
-    ]
+    "<save final choice>"]
 script_tags = ["<%d>"%(i) for i in range(10)] + script_tags + ["<loop %d>"%(i) for i in range(10)]
-input()
 script_tags_end = ["</" + tag[1:] for tag in script_tags]
 screen = []
 screen_row_length = 105
@@ -299,7 +301,6 @@ def parse_script(content: list, per_line_delay: float=0.5, current_hp: int=5, de
                 display_screen()
                 current_line_num += 1
                 continue
-
         else:
             thisline = limit_line_length(current_line.split(' '))
             screen += thisline
@@ -312,5 +313,5 @@ def parse_script(content: list, per_line_delay: float=0.5, current_hp: int=5, de
             continue
 
 content = load_from_text()#[:925]
-parse_script(content, 0, start_line=1384-2, debugging=False)
+parse_script(content, 0, start_line=0, debugging=False)
 # start_line is starting from which line in the script, remember to calibrate using -2
