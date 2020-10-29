@@ -3,7 +3,7 @@ Starting_Street = {
     #"name" can be changed if desired
     "description": "",
 
-    "exits": {Mafia_Bosses_Office},
+    "exits": {"mafia"},
 }
 
 
@@ -12,7 +12,7 @@ Mafia_Bosses_Office = {
 
     "description": "n/a",
 
-    "exits": {Bar},
+    "exits": {"bar"},
 }
 
 
@@ -21,7 +21,7 @@ Bar = {
 
     "description": "Empty bar, early to be drinking.",
 
-    "exits": {Outside_Bar_Attack}
+    "exits": {"outside bar"}
 }
 
 Outside_Bar = {
@@ -29,7 +29,7 @@ Outside_Bar = {
 
     "description": "Narrow passage between two buildings where the attack takes place.",
 
-    "exits": {Liberty_Island}
+    "exits": {"liberty island"}
 }
 
 Liberty_Island = {
@@ -37,7 +37,7 @@ Liberty_Island = {
 
     "description": "Cafe owned by a family that you have interest in working with.",
 
-    "exits": {Taxi}
+    "exits": {"taxi"}
 }
 
 Taxi = {
@@ -45,15 +45,15 @@ Taxi = {
 
     "description": "A taxi needed to make the journey to the casino. Although, something unexpected happens.",
 
-    "exits": {Casino}
+    "exits": {"casino"}
 }
 
 Casino = {
     "name": "Casino, also Bar 2",
 
-    "description": ""
+    "description": "",
 
-    "exits": {Warehouse}
+    "exits": {"warehouse"}
 }
 
 Warehouse = {
@@ -71,7 +71,7 @@ Warehouse = {
 All_Locations = {
     "mafia" : Mafia_Bosses_Office,
     "warehouse" : Warehouse,
-    "street" : Starting_Street
+    "street" : Starting_Street,
     "bar" : Bar,
     "casino" : Casino,
     "outside bar" : Outside_Bar,
