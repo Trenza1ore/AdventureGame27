@@ -219,6 +219,8 @@ def parse_script(content: list, per_line_delay: float=0.5, current_hp: int=5, de
                 else:
                     screen += limit_line_length(current_line.split(' '))
                     display_screen()
+                    if current_line != '' and "|" not in current_line and "_" not in current_line and ":" not in current_line:
+                        input()
                     sleep(per_line_delay)
                     current_line_num += 1
                     continue
@@ -304,5 +306,5 @@ def parse_script(content: list, per_line_delay: float=0.5, current_hp: int=5, de
             continue
 
 content = load_from_text()#[:925]
-parse_script(content, 0, start_line=1335-2, debugging=False)
+parse_script(content, 0, start_line=1450-2, debugging=False)
 # start_line is starting from which line in the script, remember to calibrate using -2

@@ -923,7 +923,7 @@ And then the room roars in laughter, you sit there still quiet but now more emba
 You do not want to risk the same mistake as before and not pay attention to something and quickly pick out your trusty notebook and write down whatever the man said...
 <choice>
 A,B
-è lui stupido, siamo qui perché stiano complottando contro e prendendo in giro voi ragazzi. Stupidi Giovanni,è lui stupido, siamo qui perché stiano fumando erba e prendendo in giro voi ragazzi. Stupidi Giovanni
+è lui stupido siamo qui perché stiano complottando contro e prendendo in giro voi ragazzi. Stupidi Giovanni,è lui stupido siamo qui perché stiano fumando erba e prendendo in giro voi ragazzi. Stupidi Giovanni
 
 What's the correct one?
 </choice>
@@ -1485,11 +1485,13 @@ Your favourite film is starting.
 <0>
 Your blood runs cold.
 Your conclusion was wrong.
-You hear a knock on your apartment door. 
+You hear a knock on your apartment door.
+...
 "When"
 "They come"
 "They come"
 "At what you love"
+...
 <lose 1 hp>
 <lose 1 hp>
 <lose 1 hp>
@@ -1501,15 +1503,18 @@ You hear a knock on your apartment door.
 <lose 1 hp>
 <lose 1 hp>
 <lose 1 hp>
+Why are you still alive?? You broke the game bro!
 </0>
 <2>
 Your blood runs cold.
 Your conclusion was wrong.
-You hear a knock on your apartment door. 
+You hear a knock on your apartment door.
+...
 "When"
 "They come"
 "They come"
 "At what you love"
+...
 <lose 1 hp>
 <lose 1 hp>
 <lose 1 hp>
@@ -1521,15 +1526,18 @@ You hear a knock on your apartment door.
 <lose 1 hp>
 <lose 1 hp>
 <lose 1 hp>
+Why are you still alive?? You broke the game bro!
 </2>
 <3>
 Your blood runs cold.
 Your conclusion was wrong.
-You hear a knock on your apartment door. 
+You hear a knock on your apartment door.
+...
 "When"
 "They come"
 "They come"
 "At what you love"
+...
 <lose 1 hp>
 <lose 1 hp>
 <lose 1 hp>
@@ -1541,6 +1549,7 @@ You hear a knock on your apartment door.
 <lose 1 hp>
 <lose 1 hp>
 <lose 1 hp>
+Why are you still alive?? You broke the game bro!
 </3>
 <pause>
 
@@ -1548,3 +1557,6 @@ You hear a knock on your apartment door.
 <title>
 you have/won ! ! ! !
 </title>
+<go back>
+5,999999
+</go back>
