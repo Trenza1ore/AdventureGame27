@@ -1,0 +1,61 @@
+﻿
+<title>
+introduction
+</title>
+
+<choice>
+NOTE,LEAVE
+Open your NOTEbook,LEAVE the ferry terminal
+
+What should you do?
+</choice>
+<0>
+<notebook>
+</0>
+<1>
+You leave the terminal.
+</1>
+
+<loop choice>
+"What exactly is a consigliere?","You don't sound like you're enjoying that position very much","Why did you take up this position?"
+
+What should you say?
+</loop choice>
+
+<change word>
+è lui stupido, siamo qui perché stiano fumando erba e prendendo in giro voi ragazzi. Stupidi/"** **n**, *********e**, ***a**, **o***, *******o".
+</change word>
+
+Giovanni!
+
+<0>
+
+</0>
+
+<loop 0>
+
+</loop 0>
+
+<go back>
+2,26
+</go back>
+
+<pause>
+
+</pause>
+
+<lose 1 hp>
+
+<save final choice>
+
+<full hp>
+
+<add clue>
+
+<notebook>
+
+<0>
+<notebook>
+</0>
+
+Open your NOTEbook

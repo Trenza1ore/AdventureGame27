@@ -1,7 +1,7 @@
 def Remove_Punc(user_input: str) -> str:
     output = ""
     for character in user_input:
-        if character.isalpha() or character == ' ':
+        if character.isalpha() or character == ' ' or character.isdigit():
             output += character
         elif character == '_':
             output += ' '

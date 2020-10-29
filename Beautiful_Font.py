@@ -340,16 +340,107 @@ title_fonts = {
   _   
  (_)  
 '''.splitlines(),
+
+' ' : '''
+     
+     
+     
+     
+     
+     
+'''.splitlines(),
+
+':' : '''
+    
+  _ 
+ (_)
+    
+  _ 
+ (_)
+'''.splitlines(),
+
+'!' : '''
+  _ 
+ | |
+ | |
+ | |
+ |_|
+ (_)
+'''.splitlines(),
 }
 
 def print_title_line(letters: list, line_num: int) -> None:
-    for i in letters:
-        print(i[line_num], end=' ')
-    print()
+  for i in letters:
+      print(i[line_num], end=' ')
+  print()
+
+def print_title_line_multi(letters: list, line_num: int):
+  for i in letters:
+      print(i[line_num], end=' ')
+  print()
 
 def print_title(print_list: str="TITLE", wait_time: float=0.1) -> None:
+  if print_list.count('/') == 1:
+    print_list_1, print_list_2 = (list(i) for i in print_list.upper().split('/'))
+    current_print_list_1 = []
+    current_print_list_2 = []
+    #input()
+    for i in print_list_1:
+        clear_screen()
+        current_print_list_1.append(title_fonts[i])
+        for j in range(7):
+            print_title_line(current_print_list_1, j)
+        sleep(wait_time)
+    for i in print_list_2:
+        clear_screen()
+        for j in range(7):
+            print_title_line(current_print_list_1, j)
+        current_print_list_2.append(title_fonts[i])
+        print()
+        for j in range(7):
+            print_title_line(current_print_list_2, j)
+        sleep(wait_time)
+      
+    print('\n'+'-' * 105)
+  elif print_list.count('/') == 2:
+    print_list_1, print_list_2, print_list_3 = (list(i) for i in print_list.upper().split('/'))
+    current_print_list_1 = []
+    current_print_list_2 = []
+    current_print_list_3 = []
+    #input()
+    for i in print_list_1:
+        clear_screen()
+        current_print_list_1.append(title_fonts[i])
+        for j in range(7):
+            print_title_line(current_print_list_1, j)
+        sleep(wait_time)
+    for i in print_list_2:
+        clear_screen()
+        for j in range(7):
+            print_title_line(current_print_list_1, j)
+        current_print_list_2.append(title_fonts[i])
+        print()
+        for j in range(7):
+            print_title_line(current_print_list_2, j)
+        sleep(wait_time)
+    for i in print_list_3:
+        clear_screen()
+        for j in range(7):
+            print_title_line(current_print_list_1, j)
+        print()
+        for j in range(7):
+            print_title_line(current_print_list_2, j)
+        current_print_list_3.append(title_fonts[i])
+        print()
+        for j in range(7):
+            print_title_line(current_print_list_3, j)
+        sleep(wait_time)
+      
+    print('\n'+'-' * 105)
+  else:
     print_list = list(print_list.upper())
     current_print_list = []
+    
     #input()
     for i in print_list:
         clear_screen()
@@ -358,3 +449,6 @@ def print_title(print_list: str="TITLE", wait_time: float=0.1) -> None:
             print_title_line(current_print_list, j)
         sleep(wait_time)
     print('-' * 105)
+
+if __name__ == "__main__":
+    print_title("End sequence")

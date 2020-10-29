@@ -21,8 +21,24 @@ Drunk Divorcee: "Maybe I should get some snacks. This'll be a long night. Which 
 <1>
 Drunk Divorcee: "My cold, dark home... Is this even my home? These damn buildings all look the same! Same cold dark stone, and I thought it only-- only gets cold in the north? With them polar bears, and ice caps! But if you look at— at the map of the world... I live in the West"
 </1>
-You go WEST towards the cinema
+<choice>
+SOUTH,EAST,WEST
+Go SOUTH towards the grocery store,Go EAST towards your apartment building,Go WEST towards the cinema
 
+You reach the end of the block. You can:
+</choice>
+<0>
+Drunk Divorcee: "Maybe I should get some snacks. This'll be a long night. Which way is it again? Right is the hand I write with... left is... the way I left from-? Yes, turn left.."
+</0>
+<1>
+Drunk Divorcee: "My cold, dark home... Is this even my home? These damn buildings all look the same! Same cold dark stone, and I thought it only-- only gets cold in the north? With them polar bears, and ice caps! But if you look at— at the map of the world... I live in the West"
+</1>
+<2>
+You go WEST towards the cinema
+</2>
+<go back>
+2,24
+</go back>
 Drunk Divorcee
 "well a damn boring job it was, anyway! In college I wanted to be, like, whatshisname? Sherlock! Well 
 Sherlock Holmes my ass! Half my day I return wallets, the other third is false sec-- security alarms... a 
