@@ -27,7 +27,7 @@ Drunk Divorcee:
 SOUTH,EAST,WEST
 Go SOUTH towards the grocery store,Go EAST towards your apartment building,Go WEST towards the cinema
 
-You reach the end of the block. You can:
+You walked in circles and returned...
 </choice>
 <0>
 Drunk Divorcee: 
