@@ -1337,7 +1337,7 @@ You leave the scene.
 </pause>
 <title>
 Boss's office
-<title>
+</title>
 [05:06]
 [Mafia base]
 

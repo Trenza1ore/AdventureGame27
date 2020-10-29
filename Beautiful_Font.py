@@ -12,6 +12,14 @@ else:
 # The website I used to generate these fonts:
 # http://www.patorjk.com/software/taag/#p=display&f=Big&t=K
 title_fonts = {
+"'" : '''
+  _ 
+ | |
+ |/ 
+    
+    
+    
+'''.splitlines(),
 
 'A' : '''
            
