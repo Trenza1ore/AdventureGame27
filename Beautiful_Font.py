@@ -1,8 +1,13 @@
 from os import system
 from time import sleep
+from sys import platform
 
-def clear_screen() -> None:
-    system("cls")
+if platform == "win32":
+  def clear_screen() -> None:
+      system("cls")
+else:
+  def clear_screen() -> None:
+      system("clear")
 
 # The website I used to generate these fonts:
 # http://www.patorjk.com/software/taag/#p=display&f=Big&t=K

@@ -32,7 +32,7 @@ full_hp = 5
 
 try:
     player_notes = []
-    savefile = open("savedata/player_notes", 'r', encoding="utf-8")
+    savefile = open("player_notes", 'r', encoding="utf-8")
     note_num = int(savefile.read())
     savefile.close()
     for i in range(note_num):
@@ -97,7 +97,7 @@ def parse_script(content: list, per_line_delay: float=0.5, current_hp: int=5, de
             input("\nYou died.\nPress ENTER key to continue...\n")
             print_title("game over")
             input("\n%s\nPress ENTER key to return to the start of this chapter...\n%s\n"%('-' * 105, '-' * 105))
-            savefile = open("savedata/save", 'r', encoding="utf-8")
+            savefile = open("save", 'r', encoding="utf-8")
             current_line_num, current_scene_num = (int(i) for i in savefile.readline().split(','))
             savefile.close()
             current_hp = full_hp
@@ -133,7 +133,7 @@ def parse_script(content: list, per_line_delay: float=0.5, current_hp: int=5, de
             elif special_tag_type == 1:
                 current_line_num += 1
                 player_notes.append(remaining_notes.pop())
-                savefile = open("savedata/player_notes", 'w', encoding="utf-8")
+                savefile = open("player_notes", 'w', encoding="utf-8")
                 savefile.write(str(len(player_notes)))
                 savefile.close()
                 screen.append("<A new clue has been added to your notebook!>")
@@ -163,7 +163,7 @@ def parse_script(content: list, per_line_delay: float=0.5, current_hp: int=5, de
                 print_title(current_scene)
                 sleep(per_line_delay)
                 if current_line != "End sequence":
-                    savefile = open("savedata/save", 'w', encoding="utf-8")
+                    savefile = open("save", 'w', encoding="utf-8")
                     savefile.write("%d,%d"%(current_line_num - 1, current_scene_num))
                     savefile.close()
                 current_hp = full_hp
