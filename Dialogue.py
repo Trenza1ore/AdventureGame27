@@ -2,7 +2,13 @@ from Normalise import Parse_Input
 from Notebook import limit_line_length, print_notes, All_Notes, clue_book
 from time import sleep
 from Beautiful_Font import *
+from os import remove
 
+try:
+    remove("player_notes")
+    remove("save")
+except:
+    pass
 script_tags = [
     "<title>",
     "<slide>",
@@ -306,5 +312,5 @@ def parse_script(content: list, per_line_delay: float=0.5, current_hp: int=5, de
             continue
 
 content = load_from_text()#[:925]
-parse_script(content, 0, start_line=1450-2, debugging=False)
+parse_script(content, 0, start_line=1384-2, debugging=False)
 # start_line is starting from which line in the script, remember to calibrate using -2

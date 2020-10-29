@@ -342,7 +342,8 @@ Detective Mike:
 Angelo Rosolino:
 "I gain respect for pretending to be an emotionless robot and make opinions sound like logical statements."
 
-Angelo sure is a tired kind of drunk
+Angelo sure is a tired kind of drunk...
+
 </loop 0>
 <loop 1>
 Detective Mike:
@@ -352,6 +353,7 @@ Angelo Rosolino:
 "Of course not! It's hard to remain impartial when you have feelings drown your mind! And making decisions for the good of others... Why can no one make decisions for me too?"
 
 This guy was probably a poet before he joined the mafia...
+
 </loop 1>
 <loop 2>
 Detective Mike:
@@ -361,6 +363,7 @@ Angelo Rosolino:
 "Oh how I wish that was my choice! Consiglieres get chosen by the family, surely you know this! I was so clear-headed when I was younger, now look how it's biting me in the ass..."
 
 Yes, getting older sure isn't fun
+
 </loop 2>
 
 Another fruitless interview - you just witnessed a man fall into depression.
@@ -377,9 +380,6 @@ What should you do?
 <1>
 You left the bar
 </1>
-<go back>
-1,366
-</go back>
 <pause>
 
 </pause>
@@ -580,7 +580,7 @@ What should you say?
 <loop 0>
 Detective Mike:
 "Do you know anything about Figlio Inco, Roberto Orazio, Manuele Bonanno, or Angelo Rosolino?"
-Angelina Lombardo: 
+Angelina Lombardo:
 "Of course! Angelo's the Giovanni family's consigliere! He's so generous to us, and really wants to make the most out of our business connections. Our family would be having big losses if it wasn't for him. That man really knows how to make the best decisions. I bet he helped the Giovanni family make a fortune with his brains!"
 
 The is a pause. You wait for her to talk about the other suspects. After a while you poke her further. You suppose that being the boss's daughter, all she really cares about is the source of money – the other suspects just aren't worth their weight in gold for her.
@@ -590,6 +590,7 @@ Detective Mike:
 
 Angelina Lombardo:
 "Oh, no, they don't hang around these parts..."
+
 </loop 0>
 <loop 1>
 Detective Mike:
@@ -597,6 +598,7 @@ Detective Mike:
 
 Angelina Lombardo:
 "The Vittorio family who govern the Queens borough wanted to take some of our Manhattan businesses on Long Island. The Giovanni family saw an alliance as an opportunity to settle their own disputes with the Vittorio family. So we are currently on good terms with the Giovanni family."
+
 </loop 1>
 <loop 2>
 Detective Mike:
@@ -607,6 +609,7 @@ Angelina Lombardo:
 
 You find it hard to believe that she's not just a normal waitress. She seems skilled in social interactions – just what you would expect from a woman in her position.
 You shoot a glance over at Alleato. He knows he will have to pay for your coffee. He also knows that he must treat you nicely because you are a police officer. You are enjoying these feelings of power!
+
 </loop 2>
 You dismiss Angelina and she brings you your drink. You finish it quickly and head out to catch the ferry.
 <add clue>
@@ -681,6 +684,7 @@ Detective Mike:
 
 Taxi Driver:
 "Well, he seems to feel good enough to be running around. I don't suppose he got hurt badly..."
+
 </loop 0>
 <loop 1>
 Detective Mike:
@@ -688,6 +692,7 @@ Detective Mike:
 
 Taxi Driver:
 "He got in just before you did. I assumed he was with you. You mafia lot do weird things all the time!"
+
 </loop 1>
 <loop 2>
 Detective Mike:
@@ -695,6 +700,7 @@ Detective Mike:
 
 Taxi Driver:
 "Beats me! Since it looks like you're on bad terms with each other, I bet he was trying to spy on you!"
+
 </loop 2>
 Taxi Driver:
 "If you are done interrogating me, I have some money to make now. Speaking of, you haven't paid for your trip. You'll have to pay for the lunatic's trip as well."
@@ -715,6 +721,9 @@ What should you do?
 <1>
 You enter the casino.
 </1>
+<pause>
+
+</pause>
 <title>
 The casino
 </title>
@@ -882,7 +891,7 @@ G) Da Vinci     H) Masaccio     I) Giotto
 You get it right! You lovely genius!
 </1>
 <go back>
-1,791
+1,800
 </go back>
 
 The green light is given and you strut your way in. As soon as you enter your nostrils are bombarded with the musky smell of sweaty fat men and the smoky aroma of Cuban cigars. The room is full of old men laughing and shouting; but one thing stands out to you, they are all heads of the Vittorio family. What are they doing here? Before you can finish thinking, Alleato talks:
@@ -1106,9 +1115,9 @@ You feel somewhat responsible that Alleato missed the birthday party. But it was
 ...
 Wait, what were you thinking again? You look at the 3 empty glasses in front of you as you rack your brains for the reason you're feeling emotional about a goldfish.
 ...
-Right! The note has a date on it! And that date is... Yesterday? Today?
+Right! The note has a date on it! And that date is... Tomorrow? Today?
 <choice>
-YESTERDAY,TODAY
+TOMORROW,TODAY
 or is it...?,or is it...?
 
 No, wait...
@@ -1120,7 +1129,7 @@ Yes, of course!
 No, this doesn't sound right!
 </1>
 <go back>
-0,1110
+0,1119
 </go back>
 Yes, and 03:40 o'clock... Will you be able to get to that meeting before your dawn deadline?
 <choice>
@@ -1136,7 +1145,7 @@ You must have forgotten how time works. You never understood that wibbly-wobbly 
 Yes, you can still make it!
 </1>
 <go back>
-1,1126
+1,1135
 </go back>
 
 You may still be able to track him down! But where is the meeting place?
@@ -1166,7 +1175,7 @@ Yes! Must be warehouse!
 Hang on, don't these numbers look a bit like certain letters? I'm sure they are spelling out the name of the meeting place!
 </1>
 <go back>
-0,1155
+0,1165
 </go back>
 Detective Mike:
 "That's it! Someone is meeting Bonanno at 3:40 am tomorrow night in the abandoned warehouse 6 blocks down!"
@@ -1268,6 +1277,7 @@ Manuele Bonanno:
 "Well you'd think that the boss's son would be the underboss, but I guess I, the nephew, am just a lot more suited for the position! The man's still sour that he's just a mere soldier~"
 
 Wow - this man's ego is so big, it fills up teh entire warehouse!
+
 </loop 0>
 <loop 1>
 Detective Mike:
@@ -1288,7 +1298,8 @@ Detective Mike:
 Manuele Bonanno:
 "I don't know why Mariano wanted to work with you specifically, but I am planning to chang or business a little if something happens to our boss. As the underboss, it's my responsibility to secure a bright future for our mafia family, you see? And I'm having my doubts about Orazio and his casino..."
 
-That makes sense
+That makes sense.
+
 </loop 1>
 <loop 2>
 Detective Mike:
@@ -1311,7 +1322,8 @@ Detective Mike:
 Manuele Bonanno:
 "The key word here is 'attempted'. The guy never gets anywhere with his silly circus tricks."
 
-You are not convinced
+You are not convinced.
+
 </loop 2>
 
 Manuele Bonanno:
@@ -1445,7 +1457,7 @@ Detective Mike:
 "Yes, I am ready to give my answer."
 </5>
 <go back>
-5,1374
+5,1386
 </go back>
 <choice>
 A,B,C,D
@@ -1476,7 +1488,7 @@ You turn on the TV. The news presenter is summarizing the news of the day.
 ...
 ...
 <go back>
-1,1485
+1,1497
 </go back>
 Looks like nothing of note has happened today. 
 You zone out for the rest of the news program, feeling relieved.

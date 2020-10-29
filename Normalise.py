@@ -1,7 +1,8 @@
+special_character_set = (' ', ':', '/')
 def Remove_Punc(user_input: str) -> str:
     output = ""
     for character in user_input:
-        if character.isalpha() or character == ' ' or character.isdigit():
+        if character.isalpha() or character in special_character_set or character.isdigit():
             output += character
         elif character == '_':
             output += ' '
